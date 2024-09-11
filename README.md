@@ -1,5 +1,7 @@
 # Real-Time Data Processing Pipeline
 
+![Real-Time Data Pipeline](https://github.com/Jahnavi-Th/real-time-data-processing-pipeline/blob/main/Real_time_data_pipeline.webp "Real-Time Data Pipeline")
+
 ## Objective
 Build a real-time data processing pipeline for e-commerce transactions.
 
